@@ -1,0 +1,13 @@
+name: "Angeline G Fernando"
+output_dir: "."
+navbar:
+  title: "Marketing Analytics"
+
+
+
+output:
+  html_document:
+    theme: paper
+    include:
+      after_body: _footer.html
+    css: 'styles.css'

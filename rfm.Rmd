@@ -1,0 +1,51 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/PGPM-MA-2025/images/rfm/Slide1.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide2.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide3.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide4.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide5.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide6.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide7.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide8.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide9.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide10.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide11.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide12.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide13.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide14.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide15.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide16.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide17.PNG)
+
+![](/PGPM-MA-2025/images/rfm/Slide19.PNG)
+
+
+<div id="footer">
+<p>Copyright &copy; 2025,  Angeline Fernando,  All rights reserved.</p>
+</div>
