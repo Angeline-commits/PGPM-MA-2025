@@ -10,3 +10,8 @@ title: ' '
 </li>
 </ul>
 
+<ul>
+<li>
+<p><strong>Recommender Systems</strong> <a href="recommendation.html" target="_blank" rel="noopener">RFM </a>  </p>
+</li>
+</ul>
