@@ -1,0 +1,53 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/PGPM-MA-2025/images/cltv/Slide1.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide2.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide3.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide4.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide5.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide6.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide7.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide8.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide9.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide10.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide11.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide12.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide13.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide14.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide15.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide16.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide17.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide19.PNG)
+
+![](/PGPM-MA-2025/images/cltv/Slide20.PNG)
+
+
+<div id="footer">
+<p>Copyright &copy; 2025,  Angeline Fernando,  All rights reserved.</p>
+</div>
