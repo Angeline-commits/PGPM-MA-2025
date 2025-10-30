@@ -4,6 +4,8 @@ title: ' '
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
+
+<h4> Customer Segmentation and Value </h4>
 <ul>
 <li>
 <p><strong>RFM</strong> <a href="rfm.html" target="_blank" rel="noopener">RFM </a>  </p>
@@ -22,4 +24,23 @@ title: ' '
 </li>
 </ul>
 
+<h4> Product, Pricing and Promotion </h4>
 
+<ul>
+<li>
+<p><strong>Marketing Experiments</strong> <a href="experiments.html" target="_blank" rel="noopener">Marketing Experiments </a>  </p>
+</li>
+</ul>
+
+<ul>
+<li>
+<p><strong>Conjoint</strong> <a href="conjoint.html" target="_blank" rel="noopener">Conjoint </a>  </p>
+</li>
+</ul>
+
+
+<ul>
+<li>
+<p><strong>Marketing Mix Models</strong> <a href="mmm.html" target="_blank" rel="noopener">Marketing Mix Models </a>  </p>
+</li>
+</ul>
